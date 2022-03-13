@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexandreRives.
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning statistics and computer science at Université Lyon 2.
-- 💞️ I’m looking to collaborate on machine learning project.
+- 🖋️ I learned computer science, machine learning, data mining, big data and statistics at Université Lyon 2.
+- 🖥️ I’m looking to collaborate on machine learning project.
 - 📫 You can reach me here : www.linkedin.com/in/rives-alexandre.
 
 <!---
